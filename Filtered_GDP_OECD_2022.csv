@@ -1,0 +1,132 @@
+LOCATION,Country,TRANSACT,Transaction,MEASURE,Measure,TIME,Year,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value,Flag Codes,Flags
+AUS,Australia,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1756292.863,E,Estimated value
+AUT,Austria,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,470941.927,,
+AUT,Austria,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,470941.927,,
+AUT,Austria,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,470941.927,,
+BEL,Belgium,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,583435.596,P,Provisional value
+BEL,Belgium,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,583435.596,P,Provisional value
+BEL,Belgium,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,583435.596,P,Provisional value
+CAN,Canada,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,2137939.22,,
+CAN,Canada,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,2137939.22,,
+CAN,Canada,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,2137939.22,,
+CZE,Czech Republic,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,290527.551,,
+CZE,Czech Republic,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,290527.551,,
+CZE,Czech Republic,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,290527.551,,
+DNK,Denmark,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,400167.197,,
+DNK,Denmark,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,400167.197,,
+DNK,Denmark,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,400167.197,,
+FIN,Finland,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,282896.251,,
+FIN,Finland,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,282896.251,,
+FIN,Finland,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,282896.251,,
+FRA,France,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,2779092.237,P,Provisional value
+FRA,France,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,2779092.237,P,Provisional value
+FRA,France,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,2779092.237,P,Provisional value
+DEU,Germany,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,4082469.491,P,Provisional value
+DEU,Germany,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,4082469.491,P,Provisional value
+DEU,Germany,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,4082469.491,P,Provisional value
+GRC,Greece,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,219065.872,P,Provisional value
+GRC,Greece,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,219065.872,P,Provisional value
+GRC,Greece,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,219065.872,P,Provisional value
+ISL,Iceland,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,28064.53,,
+ITA,Italy,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,2049737.165,,
+LUX,Luxembourg,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,81641.808,,
+POL,Poland,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,688125.011,,
+PRT,Portugal,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,255196.661,P,Provisional value
+ESP,Spain,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1417800.466,P,Provisional value
+ESP,Spain,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1417800.466,P,Provisional value
+ESP,Spain,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1417800.466,P,Provisional value
+SWE,Sweden,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,591188.595,,
+SWE,Sweden,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,591188.595,,
+CHE,Switzerland,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,818426.551,P,Provisional value
+CHE,Switzerland,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,818426.551,P,Provisional value
+CHE,Switzerland,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,818426.551,P,Provisional value
+GBR,United Kingdom,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,3089072.722,,
+GBR,United Kingdom,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,3089072.722,,
+GBR,United Kingdom,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,3089072.722,,
+COL,Colombia,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,343622.105,E,Estimated value
+EST,Estonia,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,38100.813,,
+EST,Estonia,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,38100.813,,
+EST,Estonia,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,38100.813,,
+SVN,Slovenia,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,60063.476,,
+NOR,Norway,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,579422.45,,
+ISR,Israel,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,525002.448,,
+CHN,China (People's Republic of),B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,17963170.521,,
+CHL,Chile,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,300686.006,,
+KOR,Korea,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1673916.512,P,Provisional value
+NZL,New Zealand,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,245845.23,E,Estimated value
+IRL,Ireland,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,533140.012,,
+IDN,Indonesia,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1319100.22,,
+CHL,Chile,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,300686.006,,
+SVK,Slovak Republic,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,115461.712,,
+IRL,Ireland,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,533140.012,,
+JPN,Japan,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,4232173.916,E,Estimated value
+IRL,Ireland,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,533140.012,,
+HUN,Hungary,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,177337.437,P,Provisional value
+CHN,China (People's Republic of),B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,17963170.521,,
+CHN,China (People's Republic of),B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,17963170.521,,
+POL,Poland,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,688125.011,,
+PRT,Portugal,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,255196.661,P,Provisional value
+PRT,Portugal,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,255196.661,P,Provisional value
+SVK,Slovak Republic,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,115461.712,,
+IDN,Indonesia,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1319100.22,,
+USA,United States,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,25439700.0,E,Estimated value
+POL,Poland,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,688125.011,,
+HUN,Hungary,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,177337.437,P,Provisional value
+OECD,OECD - Total,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,59804540.558,E,Estimated value
+HUN,Hungary,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,177337.437,P,Provisional value
+LUX,Luxembourg,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,81641.808,,
+MEX,Mexico,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1421496.571,E,Estimated value
+KOR,Korea,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1673916.512,P,Provisional value
+ISL,Iceland,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,28064.53,,
+NLD,Netherlands,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1009398.719,P,Provisional value
+SVN,Slovenia,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,60063.476,,
+NLD,Netherlands,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1009398.719,P,Provisional value
+LUX,Luxembourg,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,81641.808,,
+SVN,Slovenia,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,60063.476,,
+TUR,Türkiye,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,906804.081,P,Provisional value
+ISL,Iceland,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,28064.53,,
+ZAF,South Africa,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,405270.838,,
+NLD,Netherlands,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1009398.719,P,Provisional value
+SWE,Sweden,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,591188.595,,
+NOR,Norway,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,579422.45,,
+ITA,Italy,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,2049737.165,,
+NOR,Norway,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,579422.45,,
+SVK,Slovak Republic,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,115461.712,,
+TUR,Türkiye,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,906804.081,P,Provisional value
+ITA,Italy,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,2049737.165,,
+ZAF,South Africa,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,405270.838,,
+ZAF,South Africa,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,405270.838,,
+KOR,Korea,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,1673916.512,P,Provisional value
+LVA,Latvia,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,40932.03,,
+LVA,Latvia,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,40932.03,,
+LVA,Latvia,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,40932.03,,
+LTU,Lithuania,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,70974.49,,
+LTU,Lithuania,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,70974.49,,
+LTU,Lithuania,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,70974.49,,
+EA19,Euro area (19 countries),B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,14136060.947,,
+EA19,Euro area (19 countries),B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,14136060.947,,
+EA19,Euro area (19 countries),B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,14136060.947,,
+ARG,Argentina,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,632770.042,,
+ARG,Argentina,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,632770.042,,
+CRI,Costa Rica,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,68380.838,E,Estimated value
+CRI,Costa Rica,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,68380.838,E,Estimated value
+CRI,Costa Rica,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,68380.838,E,Estimated value
+TUR,Türkiye,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,906804.081,P,Provisional value
+BGR,Bulgaria,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,90213.009,,
+CYP,Cyprus,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,28444.634,P,Provisional value
+BGR,Bulgaria,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,90213.009,,
+BGR,Bulgaria,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,90213.009,,
+CYP,Cyprus,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,28444.634,P,Provisional value
+CYP,Cyprus,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,28444.634,P,Provisional value
+MLT,Malta,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,17820.317,,
+HRV,Croatia,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,70446.495,P,Provisional value
+ROU,Romania,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,300691.355,P,Provisional value
+HRV,Croatia,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,70446.495,P,Provisional value
+ROU,Romania,B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,300691.355,P,Provisional value
+MLT,Malta,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,17820.317,,
+ROU,Romania,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,300691.355,P,Provisional value
+MLT,Malta,B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,17820.317,,
+HRV,Croatia,B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,70446.495,P,Provisional value
+EU27_2020,European Union – 27 countries (from 01/02/2020),B1_GA,Gross domestic product (output approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,16750262.603,,
+EU27_2020,European Union – 27 countries (from 01/02/2020),B1_GE,Gross domestic product (expenditure approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,16750262.603,,
+EU27_2020,European Union – 27 countries (from 01/02/2020),B1_GI,Gross domestic product (income approach),CXC,"Current prices, current exchange rates",2022,2022,USD,US Dollar,6,Millions,,,16750262.603,,
